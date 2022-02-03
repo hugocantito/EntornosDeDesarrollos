@@ -1,2 +1,0 @@
-# EntornosDeDesarrollos
-Repositorio De Clase
